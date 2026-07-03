@@ -1,4 +1,5 @@
-# ai-job-search-agent
+# AI-Job-Search-Agent
+
 Why Career Scout AI?
 
 Experienced professionals often monitor multiple company career pages to discover new opportunities.
